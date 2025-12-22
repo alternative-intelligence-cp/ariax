@@ -1,0 +1,11 @@
+we are going to build our own linux distro for aria
+Repo: Local--> /home/randy/._____RANDY_____/REPOS/ariax, Remote--> https://github.com/alternative-intelligence-cp/ariax
+Research is at /home/randy/._____RANDY_____/REPOS/ariax/docs/research/research_033_kernel_bash.txt
+Have set up a subdomain: ariax.ai-liberation-platform.org
+Need to set up certbot and nginx/apache to work with the subdomain
+make basic web site
+WEB details at /home/randy/._____RANDY_____/____FILES/shared/WEB
+passwordless login and sudo already set up for you
+Review research
+Create Highly detailed todo / context continuation files in /home/randy/._____RANDY_____/REPOS/ariax/.internal and add this entire folder to .gitignore
+Go one step at a time.Do not defer anything unless there is absolutely no way to do it now. Remember, we have resources like Gemini if we get stuck and I am always here to help too! We are the dream team.  We got this :-)
