@@ -1,0 +1,2 @@
+﻿<!-- Placeholder for Gemini acurl (Aria Transfer) implementation report -->
+<!-- This will be a replacement for curl/wget with proper hex-stream separation -->
